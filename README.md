@@ -31,4 +31,4 @@
 
 This profile is still under construction. Let's call this beta
 
-<img src="https://github.com/michaelbarnard/michaelbarnard/blob/main/over9000.gif">
+<img src="https://github.com/michaelbarnard/michaelbarnard/blob/main/over9k.gif">
