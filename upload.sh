@@ -5,7 +5,8 @@
 git add .
 
 now=$(date)
+message="Upload ran on $now"
 
-git commit -m "Uploaded Changes on $now"
+git commit --allow-empty -m "$message"
 
-git push origin master
+#git push origin master
