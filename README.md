@@ -12,7 +12,6 @@ letter-spacing:0;
 line-height:1.4;
 font-family:'Consolas','BitstreamVeraSansMono','CourierNew',Courier,monospace;
 font-size:12px;
-
 border-width:1px;
 border-style:solid;
 border-color:lightgray;
