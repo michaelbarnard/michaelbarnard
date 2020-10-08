@@ -8,4 +8,4 @@ now=$(date)
 
 git commit -m "Uploaded Changes on $now"
 
-git push origin/master
+git push origin master
