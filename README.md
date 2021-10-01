@@ -1,6 +1,7 @@
 ### Michael Barnard 
 
 **Software Engineer/DevOps**
+
 **Fixer of Things**
 
 ### Automate all the things!
@@ -40,5 +41,6 @@
 
 
 This profile is still under construction. Let's call this beta
+
 
 <img src="https://github.com/michaelbarnard/michaelbarnard/blob/master/over9k.gif">
