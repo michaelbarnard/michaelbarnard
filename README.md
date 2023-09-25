@@ -173,6 +173,7 @@ Though I might not use all of them every day, I am comfortable enought to take o
     <th>Serverless</th>
     <td>
         <img alt="Google Cloud Functions" src="https://img.shields.io/badge/Google%20Cloud%20Functions-aaaaaa.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase">
     </td>
   </tr>
   <tr>
