@@ -45,6 +45,8 @@ Responsibilities:
 
 👾 Not as much as I used to, but I do enjoy a good **gaming** session
 
+👑 I play at least 1 game of chess a day
+
 ---
 
 </details>
